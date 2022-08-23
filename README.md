@@ -8,7 +8,7 @@
 
 **Explainability**: Using occlusion-based attribution to see regions of high importance to the model's decision-making process, thus adding interpretability
 
-**Purpose**: This notebook goes through the steps for explaining this model. It is accompanied by this notebook which shows the training and evaluating process.  
+**Purpose**: resnext-explainability.ipynb notebook goes through the steps for explaining this model. It is accompanied by resnext-training.ipynb notebook which shows the training and evaluating process.  
 
 **Notes for use**: notebook assumes kaggle environment and .cuda() availability. 
 
