@@ -13,3 +13,8 @@
 **Notes for use**: notebook assumes kaggle environment and .cuda() availability. 
 
 *[1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017400/pdf/ryai.2020190082.pdf*
+
+**Examples of explainability**:
+
+![url]('30')
+![url]('50')
