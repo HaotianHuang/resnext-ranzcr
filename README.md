@@ -16,5 +16,5 @@
 
 **Examples of explainability**:
 
-![url]('30')
-![url]('50')
+![image](30.png)
+![image](50.png)
