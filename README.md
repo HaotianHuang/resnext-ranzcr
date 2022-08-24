@@ -6,7 +6,7 @@
 
 **Model Architecture**: resnext50_32x4d
 
-**Performance**: 93% accuracy using 4-fold cross-validation (comparable to state of the art models in literature[2])
+**Performance**: 93% ROAUC using 4-fold cross-validation (comparable to state of the art models in literature[2])
 
 **Explainability**: Using occlusion-based attribution to see regions of high importance to the model's decision-making process, thus adding interpretability
 
